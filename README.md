@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikeshari7" alt="rishikeshari7" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m a Full Stack Developer
 
 - 👨‍💻 All of my projects are available at [brlportfolio.vercel.app](brlportfolio.vercel.app)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Next Js**
 
 - 📫 How to reach me **rishikeshari772@gmail.com**
 
