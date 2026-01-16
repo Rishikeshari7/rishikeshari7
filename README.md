@@ -1,13 +1,13 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Rishi Keshari</h1>
-<h3 align="center">I am a Mern developer...</h3>
+<h3 align="center">I am a Full Stack Developer...</h3>
 <img align="right" alt="Coding Img" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikeshari7" alt="rishikeshari7" /></a> </p>
 
 - 🌱 I’m a Full Stack Developer
 
-- 👨‍💻 All of my projects are available at [brlportfolio.vercel.app](brlportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://me.rishikeshari.com/)
 
 - 💬 Ask me about **Next Js**
 
