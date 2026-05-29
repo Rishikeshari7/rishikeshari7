@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rishi Keshari</h1>
 
 <p align="center">
