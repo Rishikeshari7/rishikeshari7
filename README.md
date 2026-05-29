@@ -1,69 +1,185 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Rishi Keshari</h1>
-<h3 align="center">I am a Full Stack Developer...</h3>
-<img align="right" alt="Coding Img" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikeshari7" alt="rishikeshari7" /></a> </p>
-
-- 🌱 I’m a Full Stack Developer
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://me.rishikeshari.com/)
-
-- 💬 Ask me about **Next Js**
-
-- 📫 How to reach me **rishikeshari772@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishi keshari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi keshari" height="30" width="40" /></a>
-<a href="https://instagram.com/rishikeshari7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishikeshari7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rishikeshari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishikeshari" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rishikeshari7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rishikeshari7" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/rishikeshari7"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Building+scalable+web+applications;SIH+2024+Winner+%F0%9F%8F%86" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="left">💻 Tech Stack:</h2>
-<p>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
-  <img src="https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR"/>
+<p align="center">
+  <a href="https://me.rishikeshari.com/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/rishikeshari7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/rishikeshari7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:rishikeshari7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishikeshari7&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/c-plus-plus-5728486-4781250.png" alt="c++" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="boootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://c0.klipartz.com/pngpicture/845/302/gratis-png-javascript-logo-html-comentario-blog-thumbnail.png" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/359/101/png-transparent-aperture-laboratories-science-technology-laboratory-portal-science-blue-text-computer-thumbnail.png" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rishikeshari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rishikeshari" /></a></p><br><br>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshari7&show_icons=true&locale=en&layout=compact" alt="rishikeshari7" /></p>
+- 🌱 I'm a **Full Stack Developer** specializing in performant, SEO-optimized web applications
+- 💼 Currently an **SDE Intern @ Primathon**, building 2.0 storefronts for D2C brands
+- 🏆 **Winner — Smart India Hackathon 2024 (ISRO)** for *Solaris*, a 3D solar visualization platform
+- 💬 Ask me about **Next.js**, **TypeScript**, and **system design**
+- 🔗 Explore my work at **[me.rishikeshari.com](https://me.rishikeshari.com/)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikeshari7&show_icons=true&locale=en" alt="rishikeshari7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshari7&" alt="rishikeshari7" /></p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+
+**Databases & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🔹 Primathon — *SDE Intern*
+`Jan 2026 – Present`
+
+- Shipped pixel-perfect, SEO-optimized 2.0 storefronts for D2C brands — **GoKwik, Wellversed, Aqualogica, The Moms Co.** — re-platforming from Shopify to an in-house commerce stack with 100% design accuracy and custom catalog/inventory APIs.
+- Lifted **Lighthouse & Core Web Vitals (LCP, INP, CLS) from 62 → 94** via image optimization, route-level code splitting, and SSR/ISR tuning; deployed production builds on AWS EC2 + Nginx.
+- Implemented **geo-based URL routing** using MaxMind to serve region-specific content based on user IP location.
+- Boosted SEO with metadata, schema markup, robots.txt, Open Graph tags, and XML sitemaps + GA4 — supporting **14K daily sessions**.
+
+### 🔹 RemoveQ — *Full Stack Developer Intern*
+`Jul 2024 – Jul 2025`
+
+- Re-architected database schemas and integrated **Floater Pay** (in-app wallet) for automated top-ups, media-based deductions, and plan suspensions via cron jobs — improving transaction reliability by **35%**.
+- Optimized state management with Zustand and improved Redis query performance, reducing API latency by **30%** and load time by **15%**.
+- Built **Tigsaw**, a no-code platform to design, customize, and deploy 100+ high-converting website components using Next.js, TypeScript, Prisma, PostgreSQL, Redis, AWS S3, and Grapes.js.
+
+### 🔹 Unizoy — *Full Stack Developer Intern*
+`Jan 2024 – Jul 2024`
+
+- Crafted **Unizoy UI**, an open-source animation-driven component library (Next.js, TypeScript, Contentlayer, GSAP) with 50+ reusable components, cutting dev time by **30%**.
+- Shipped **5+ production web apps** using SSG, ISR, and SSR — reducing page-load times by **20%**.
+- Configured Strapi, GraphQL, and Contentlayer to streamline backend workflows and cut data-fetching complexity by **25%**.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☀️ Solaris</h3>
+      <p><em>Solar Energy Visualization Platform</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
+      </p>
+      <ul>
+        <li>Real-time solar assessment using LOD-1 3D city models to estimate BIPV potential.</li>
+        <li>Interactive 3D engine rendering city models, solar heatmaps & shadow simulations.</li>
+        <li>Shadow analysis & irradiance modeling across <strong>2,000+ buildings</strong>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 StudyNotion</h3>
+      <p><em>EdTech Learning Platform</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+      </p>
+      <ul>
+        <li>Full-featured platform with <strong>20+ REST APIs</strong>, JWT auth & Razorpay payments.</li>
+        <li>Role-based access for 3 user types (admin, instructor, student).</li>
+        <li>Instructors publish multimedia courses; students enroll & track progress.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+**Dr. APJ Abdul Kalam Technical University** — Ghaziabad, U.P.  
+*Bachelor of Technology in Computer Science* `Nov 2022 – May 2026`  
+**SGPA:** 8.11 / 10
+
+> **Relevant Coursework:** Operating Systems · DBMS · Computer Networks · OOP · Data Structures & Algorithms
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner — Smart India Hackathon 2024 (ISRO)** for building *Solaris*, a 3D solar potential visualization tool.
+- 💡 Solved **400+ Data Structures & Algorithms** problems across LeetCode, CodeChef & Codeforces.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishikeshari7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshari7&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshari7&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishikeshari7&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://me.rishikeshari.com/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rishikeshari7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/rishikeshari7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/rishikeshari"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/rishikeshari7"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://instagram.com/rishikeshari7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:rishikeshari7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/rishikeshari7">Rishi Keshari</a></i></p>
